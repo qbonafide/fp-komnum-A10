@@ -1,10 +1,10 @@
 |    NRP     |      Name      |
 | :--------: | :------------: |
 | 5025241021 | Kartika Nana Naulita |
-| 5025221059 | Puspita Wijayanti .K. |
-| 5025221060 | Christina Tan |
-| 5025221069 | Erica Triana Widyastuti |
-| 5025221086 | Callista Fidelya |
+| 5025241059 | Puspita Wijayanti .K. |
+| 5025241060 | Christina Tan |
+| 5025241069 | Erica Triana Widyastuti |
+| 5025241086 | Callista Fidelya |
 
 # FINAL PRAKTIKUM KOMPUTASI NUMERIK
 
